@@ -1,0 +1,19 @@
+/*--------- slider ---------*/
+#slide {width:100%;  
+		height:706px; 
+		overflow:hidden; 
+		z-index:777;
+		margin:0 auto;
+		position: relative;
+		background:#fff;}
+
+.slider {width:auto; 
+		height:608px;
+		overflow:hidden; 
+		position:relative; 
+		left:50%;
+		margin-left:-840px;}
+		
+.items { display:none;}
+
+
